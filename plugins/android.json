@@ -1,1 +1,1 @@
-{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{},"installed_plugins":{},"dependent_plugins":{}}
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"res/xml/config.xml":{"/*":{"<feature name=\"WebViewDebug\"><param name=\"android-package\" value=\"com.jamiestarke.webviewdebug.WebViewDebug\" /><param name=\"onload\" value=\"true\" /></feature>":1}}},"installed_plugins":{"com.jamiestarke.webviewdebug":{"PACKAGE_NAME":"com.bite.timesheetassistant"}},"dependent_plugins":{}}

@@ -6,4 +6,5 @@ C:\github\timesheet.phonegap\platforms\android\bin\classes\com\bite\timesheetass
 C:\github\timesheet.phonegap\platforms\android\bin\classes\com\bite\timesheetassistant\R$xml.class \
 C:\github\timesheet.phonegap\platforms\android\bin\classes\com\bite\timesheetassistant\R.class \
 C:\github\timesheet.phonegap\platforms\android\bin\classes\com\bite\timesheetassistant\TimesheetAssistant.class \
+C:\github\timesheet.phonegap\platforms\android\bin\classes\com\jamiestarke\webviewdebug\WebViewDebug.class \
 C:\github\timesheet.phonegap\platforms\android\bin\dexedLibs\cordova-3.2.0-1d203c242a0cca91528c468f9fc97860.jar \
